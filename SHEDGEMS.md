@@ -10,6 +10,6 @@
 
 
 
-## For any questions, you can contact our CM - @Giheron (Telegram)
+### For any questions, you can contact our CM - [Giheron](https://t.me/Giheron)
 
-## Chat for discussing SHEDGEMS tasks: https://t.me/chesszombieschat/114309
+### Chat for discussing SHEDGEMS tasks: https://t.me/chesszombieschat/114309
