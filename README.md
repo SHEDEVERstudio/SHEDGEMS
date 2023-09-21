@@ -2,7 +2,7 @@
 
 
 
->>Welcome to SHEDEVER studio`s SHEDGEMS HACK-TON-BERFEST Repository! Here is a place where developers from all around the world come together to contribute to the first in the TON ecosystem GameFi NFT/SFT Marketplace
+>Welcome to SHEDEVER studio`s SHEDGEMS HACK-TON-BERFEST Repository! Here is a place where developers from all around the world come together to contribute to the first in the TON ecosystem GameFi NFT/SFT Marketplace
 
 ## 👨‍💻 What is HACK-TON-BERFEST?
 HACK-TON-BERFEST is a month dedicated to open source, inspired by the classic Hacktoberfest by DigitalOcean, but with a focus on the TON ecosystem. We bring together developers from all over the world to enhance projects on the TON blockchain, share experiences and knowledge, and of course, receive great bonuses for their contributions.
