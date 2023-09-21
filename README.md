@@ -10,9 +10,7 @@ HACK-TON-BERFEST is a month dedicated to open source, inspired by the classic Ha
 ## 🚀 How to participate?
 
 ### Step 1: Register on TON Society
-1. Go to [TON Society]().
-2. Register and link your [TON wallet]("https://ton.org/wallets?locale=en&pagination[limit]=-1").
-3. In the profile section, make sure you've filled out the fields for your Telegram and GitHub accounts.
+1. Read the [general conditions](https://github.com/alefmanvladimir/HACK-TON-BERFEST-2023/blob/main/README.md) of participation in HACK-TON-BERFEST.
 
 ### Step 2: Choose a task to contribute
 1. Explore the "[Issues](https://github.com/SHEDEVERstudio/SHEDGEMS-hack-ton-berfest/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc)" section and select the issue that interests you most.
