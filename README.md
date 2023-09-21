@@ -2,18 +2,10 @@
 
 
 
->Welcome to HACK-TON-BERFEST 2023! This is a unique event where developers from all around the world come together to contribute to the TON ecosystem
+>>Welcome to SHEDEVER studio`s SHEDGEMS HACK-TON-BERFEST Repository! Here is a place where developers from all around the world come together to contribute to the first in the TON ecosystem GameFi NFT/SFT Marketplace
 
 ## 👨‍💻 What is HACK-TON-BERFEST?
 HACK-TON-BERFEST is a month dedicated to open source, inspired by the classic Hacktoberfest by DigitalOcean, but with a focus on the TON ecosystem. We bring together developers from all over the world to enhance projects on the TON blockchain, share experiences and knowledge, and of course, receive great bonuses for their contributions.
-
-## 🎁 What will you get?
-
-**Double merch:** Participants have a chance to get exclusive merchandise from both TON and Hacktoberfest!
-
-**Participant's NFT:** This unique NFT will not only confirm your participation, but also give you access to private TON community chats on Telegram.
-
-**Valuable prizes:** Additional rewards from the TON ecosystem, including access to ton.api and many others!
 
 ## 🚀 How to participate?
 
