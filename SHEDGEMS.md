@@ -8,7 +8,7 @@
 >
 >***Sincerely, SHEDEVER studio team!***
 
----
+
 
 ## For any questions, you can contact our CM - @Giheron (Telegram)
 
