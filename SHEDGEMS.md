@@ -12,4 +12,4 @@
 
 ## For any questions, you can contact our CM - @Giheron (Telegram)
 
-## Chat for discussing SHEDGEMS tasks: https://t.me/chesszombieschat/100454
+## Chat for discussing SHEDGEMS tasks: https://t.me/chesszombieschat/114309
