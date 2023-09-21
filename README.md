@@ -30,14 +30,14 @@ HACK-TON-BERFEST is a month dedicated to open source, inspired by the classic Ha
 
 We will choose one winner for each issue. The winner will be determined by voting by our community.
 
-Voting will take place in the [ENG Telegram channel](https://t.me/chesszombieseng) of our first game Ches Zombies.
+Voting will take place in the [ENG Telegram channel](https://t.me/chesszombieseng) of our first game Chess Zombies.
 
 ## 🎉 Prizes
 Participants whose works receive the most votes from our community will receive from SHEDEVER studio:
 
 - [NFT Whitelist 25](https://getgems.io/collection/EQD6NEcyDESwKua8-dvuMZyU8NVnYAVLc-cECE-y4ag312YK?filter=%7B%22attributes%22%3A%7B%22Discount%22%3A%5B%2225%25%22%5D%7D%7D) providing many [benefits](https://t.me/chesszombieseng/111) within the SHEDEVER studio ecosystem.
 - 100 [SAFT ENRG](https://shedever-studio.gitbook.io/chess-zombies-wpeng/information/energy-cells-usdenrg/saft-enrg).
-- The role of "SHEDEX Winner" in our [discord](https://discord.gg/kPxnUZEeFM) and [telegram chat](https://t.me/chesszombieschat/100454)
+- The role of "SHEDGEMS Winner" in our [discord](https://discord.gg/kPxnUZEeFM) and [telegram chat](https://t.me/chesszombieschat/100454)
 - [NFT Knight Mage](https://getgems.io/collection/EQAJj5xds2ms8_4t8chCgFo-sOwc3s3CjbV95EBejcdAilVY?filter=%7B%22sort%22%3A%22RarityRankAsc%22%2C%22attributes%22%3A%7B%22Subclass%22%3A%5B%22Mage%22%5D%2C%22Class%22%3A%5B%22Knight%22%5D%7D%7D) from the Chess Pieces collection
 - Place on the honor board in our [metaspace](https://hubs.mozilla.com/cvzjq4A/chess-zombies-middle-earth)
 
