@@ -23,7 +23,7 @@ HACK-TON-BERFEST is a month dedicated to open source, inspired by the classic Ha
 3. In the profile section, make sure you've filled out the fields for your Telegram and GitHub accounts.
 
 ### Step 2: Choose a task to contribute
-1. Explore the "[Issues](https://github.com/SHEDEVERstudio/SHEDGEMS-hack-ton-berfest/issues)" section and select the issue that interests you most.
+1. Explore the "[Issues](https://github.com/SHEDEVERstudio/SHEDGEMS-hack-ton-berfest/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc)" section and select the issue that interests you most.
 2. Study the essence of the problem and propose your own solution to it.
 
 ## 🤓 The winner Determination
