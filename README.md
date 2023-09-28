@@ -12,7 +12,7 @@ HACK-TON-BERFEST is a month dedicated to open source, inspired by the classic Ha
 ### Step 1: Read the [general conditions](https://github.com/alefmanvladimir/HACK-TON-BERFEST-2023/blob/main/README.md) of participation in HACK-TON-BERFEST
 
 ### Step 2: Choose a task to contribute
-1. Explore the "[Issues](https://github.com/SHEDEVERstudio/SHEDGEMS-hack-ton-berfest/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc)" section and select the issue that interests you most.
+1. Explore the "[Issues](https://github.com/SHEDEVERstudio/SHEDGEMS/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc)" section and select the issue that interests you most.
 2. Study the essence of the problem and propose your own solution to it.
 
 ## 🤓 The winner Determination
