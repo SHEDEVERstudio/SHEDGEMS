@@ -21,6 +21,8 @@ We will choose one winner for each issue. The winner will be determined by votin
 
 Voting will take place in the [ENG Telegram channel](https://t.me/chesszombieseng) of our first game Chess Zombies.
 
+Chat for discussing SHEDGEMS tasks here - [link](https://t.me/chesszombieschat/114309)
+
 ## 🎉 Prizes
 Participants whose works receive the most votes from our community will receive from SHEDEVER studio:
 
