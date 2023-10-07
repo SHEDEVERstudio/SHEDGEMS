@@ -80,8 +80,8 @@ contract NftCollection with Deployable, Ownable {
     }
 
     receive(msg: UpdateCollectionContent) {
-        // Only Owner of the this NFT Collection can transfer it.
-        require(sender() == self.owner, "access denied");
+        // Only Owner of the this NFT Collection can update it.
+        self.requireOwner();
 
         self.collection_content = msg.new_content;
         self.royalty_params = RoyaltyParams{
